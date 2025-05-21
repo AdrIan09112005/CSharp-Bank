@@ -17,22 +17,8 @@ Replace the content of Program.cs with the code from this project.
 
 Press F5 or click Start to compile and run.
 
-Option 2: Using the Command Line (CLI)
-Open a terminal (CMD, PowerShell, or Bash).
 
-Navigate to the project folder.
-
-Run the following commands:
-
-bash
-Copiar
-Editar
-dotnet new console -n BancoElectronico
-cd BancoElectronico
-# Replace the content of Program.cs with your code
-# Then build and run:
-dotnet run
-🖥️ How to Use
+### 🖥️ How to Use
 When the program starts, you'll see a main menu with options to:
 
 Register a new card
