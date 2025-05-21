@@ -1,12 +1,13 @@
-⚙️ Build and Run Instructions
-🛠️ Requirements
+### ⚙️ Build and Run Instructions
+
+### 🛠️ Requirements
 .NET SDK 6.0 or later
 
 A code editor such as Visual Studio or Visual Studio Code
 
 Supported OS: Windows, Linux, or macOS
 
-🔧 How to Build and Run
+### 🔧 How to Build and Run
 Option 1: Using Visual Studio
 Open Visual Studio.
 
