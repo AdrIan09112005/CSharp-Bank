@@ -1,39 +1,30 @@
-### ⚙️ Build and Run Instructions
+
+## ⚙️ Build and Run Instructions
 
 ### 🛠️ Requirements
-.NET SDK 6.0 or later
+- [.NET SDK 6.0 or later](https://dotnet.microsoft.com/en-us/download)
+- A code editor such as [Visual Studio](https://visualstudio.microsoft.com/) or [Visual Studio Code](https://code.visualstudio.com/)
+- Supported OS: Windows, Linux, or macOS
 
-A code editor such as Visual Studio or Visual Studio Code
-
-Supported OS: Windows, Linux, or macOS
+---
 
 ### 🔧 How to Build and Run
-Option 1: Using Visual Studio
-Open Visual Studio.
 
-Create a new project of type Console App (.NET Core or .NET 6).
+#### Option 1: Using Visual Studio
+1. Open Visual Studio.
+2. Create a new project of type **Console App (.NET Core or .NET 6)**.
+3. Replace the content of `Program.cs` with the code from this project.
+4. Press **F5** or click **Start** to compile and run.
 
-Replace the content of Program.cs with the code from this project.
+#### Option 2: Using the Command Line (CLI)
+1. Open a terminal (CMD, PowerShell, or Bash).
+2. Navigate to the project folder.
+3. Run the following commands:
 
-Press F5 or click Start to compile and run.
-
-
-### 🖥️ How to Use
-When the program starts, you'll see a main menu with options to:
-
-Register a new card
-
-Log in with an existing card
-
-Exit the system
-
-Once logged in, you can:
-
-Check your balance
-
-Make deposits
-
-Withdraw funds
-
-Transfer money to another registered card
+```bash
+dotnet new console -n BancoElectronico
+cd BancoElectronico
+# Replace the content of Program.cs with your code
+# Then build and run:
+dotnet run
 
