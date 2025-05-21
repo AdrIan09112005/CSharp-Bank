@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\alans\\OneDrive\\Documentos\\Universidad_TecMilenio\\PROFESIONAL\\4to.SEMESTRE\\Banco\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D071EBF4-B486-4531-B615-F6C0EA56EE23}|Banco\\Banco.csproj|c:\\users\\alans\\onedrive\\documentos\\universidad_tecmilenio\\profesional\\4to.semestre\\banco\\banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D071EBF4-B486-4531-B615-F6C0EA56EE23}|Banco\\Banco.csproj|solutionrelative:banco\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\alans\\OneDrive\\Documentos\\Universidad_TecMilenio\\PROFESIONAL\\4to.SEMESTRE\\Banco\\Banco\\Program.cs",
+              "RelativeDocumentMoniker": "Banco\\Program.cs",
+              "ToolTip": "C:\\Users\\alans\\OneDrive\\Documentos\\Universidad_TecMilenio\\PROFESIONAL\\4to.SEMESTRE\\Banco\\Banco\\Program.cs",
+              "RelativeToolTip": "Banco\\Program.cs",
+              "ViewState": "AgIAANkBAAAAAAAAAAAAAPUBAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-20T21:54:21.141Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
